@@ -1,0 +1,29 @@
+// {
+//   "project_info": {
+//     "project_number": "953455322542",
+//     "project_id": "merotuktuk",
+//     "storage_bucket": "merotuktuk.appspot.com"
+//   },
+//   "client": [
+//     {
+//       "client_info": {
+//         "mobilesdk_app_id": "1:953455322542:android:b09d7e99e9184da720543f",
+//         "android_client_info": {
+//           "package_name": "com.manoj.tuktuk"
+//         }
+//       },
+//       "oauth_client": [],
+//       "api_key": [
+//         {
+//           "current_key": "AIzaSyBMa1Jsg4bTGPVdptErnvmLzuY_fyXTx8M"
+//         }
+//       ],
+//       "services": {
+//         "appinvite_service": {
+//           "other_platform_oauth_client": []
+//         }
+//       }
+//     }
+//   ],
+//   "configuration_version": "1"
+// }
